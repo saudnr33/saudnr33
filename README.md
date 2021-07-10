@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 -->
 
 
-![](https://user-images.githubusercontent.com/66850564/125167006-f79cc800-e1a6-11eb-8c2e-f6516d614a58.mp4)
+https://user-images.githubusercontent.com/66850564/125167006-f79cc800-e1a6-11eb-8c2e-f6516d614a58.mp4
 
