@@ -2,6 +2,8 @@
 
 
 #### OCR for Live Auction Streaming.
+ 
+Code will be posted soon @ saudnr33/AuctionOCR
 
 
 I'm currently working on mini machine learning projects 
