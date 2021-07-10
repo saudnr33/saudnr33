@@ -1,5 +1,10 @@
-### Hi there 👋
+### Last Project:
 
+
+## OCR for Live Auction Streaming.
+
+
+I'm currently working on mini machine learning projects 
 <!--
 **saudnr33/saudnr33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
