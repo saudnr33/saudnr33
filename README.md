@@ -1,7 +1,7 @@
 ### Last Project:
 
 
-## OCR for Live Auction Streaming.
+#### OCR for Live Auction Streaming.
 
 
 I'm currently working on mini machine learning projects 
