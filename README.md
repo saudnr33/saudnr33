@@ -6,7 +6,7 @@
 Code will be posted soon @ saudnr33/AuctionOCR
 
 
-I'm currently working on mini machine learning projects 
+
 <!--
 **saudnr33/saudnr33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![](https://user-images.githubusercontent.com/66850564/125167006-f79cc800-e1a6-11eb-8c2e-f6516d614a58.mp4)
+
