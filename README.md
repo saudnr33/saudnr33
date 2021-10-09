@@ -1,7 +1,8 @@
-### Last Project:
+### Last Projects:
 
 
-#### OCR for Live Auction Streaming.
+
+#### OCR for Live Auction Streaming:
  
 Code will be posted soon @ saudnr33/AuctionOCR
 
@@ -25,3 +26,20 @@ Here are some ideas to get you started:
 
 https://user-images.githubusercontent.com/66850564/125167006-f79cc800-e1a6-11eb-8c2e-f6516d614a58.mp4
 
+
+
+
+
+#### DeepDream:
+
+
+Simple implementation of DeepDream algorithm!
+
+##### Results:
+
+![Monaliza](Results/DeepDream.png)
+
+
+![Muneeraliza](Results/dd.png)
+
+![WeAlone?](Results/AreWeAloneWhat.png)
