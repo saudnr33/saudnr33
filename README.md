@@ -33,7 +33,7 @@ https://user-images.githubusercontent.com/66850564/125167006-f79cc800-e1a6-11eb-
 #### DeepDream:
 
 
-Simple implementation of DeepDream algorithm!
+Simple implementation of DeepDream algorithm! @ saudnr33/DeepDream
 
 ##### Results:
 
