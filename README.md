@@ -1,12 +1,3 @@
-
-
-
-#### DeepDream:
-
-
-Simple implementation of DeepDream algorithm! @ saudnr33/DeepDream
-
-##### Results:
 <!-- 
 ![Monaliza](Results/DeepDream.png)
 
